@@ -14,4 +14,4 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 generaci
 ## Objetivo
 El reto consiste en hacer un dashboard con las indicaciones mencionadas.
 
-![dashboard](assets/images/dashboard1.png)
+![dashboard](assets/images/dashboard.png)
